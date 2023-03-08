@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.4",
         "laravel/nova": "^4.0",
-        "stepanenko3/laravel-helpers": "*"
+        "henryavila/laravel-helpers": "*"
     },
     "repositories": [
         {
